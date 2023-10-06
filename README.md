@@ -1,12 +1,12 @@
 # Penjelasan Metode Bot
 1. metode_1.py = Script chat otomatis ke channel discord. Isi chat diambil dari file pesan.txt 
->>> isi chat diambil secara BERURUTAN di file pesan.txt , untuk chat-nya TIDAK DIHAPUS
+- isi chat diambil secara BERURUTAN di file pesan.txt , untuk chat-nya TIDAK DIHAPUS
 2. metode_1.py = Script chat otomatis ke channel discord. Isi chat diambil dari file pesan.txt 
->>> isi chat diambil secara BERURUTAN di file pesan.txt , untuk chat-nya DIHAPUS
+- isi chat diambil secara BERURUTAN di file pesan.txt , untuk chat-nya DIHAPUS
 2. metode_1.py = Script chat otomatis ke channel discord. Isi chat diambil dari file pesan.txt 
->>> isi chat diambil secara RANDOM/ACAK di file pesan.txt , untuk chat-nya TIDAK DIHAPUS
+- isi chat diambil secara RANDOM/ACAK di file pesan.txt , untuk chat-nya TIDAK DIHAPUS
 2. metode_1.py = Script chat otomatis ke channel discord. Isi chat diambil dari file pesan.txt 
->>> isi chat diambil secara RANDOM/ACAK di file pesan.txt , untuk chat-nya DIHAPUS
+- isi chat diambil secara RANDOM/ACAK di file pesan.txt , untuk chat-nya DIHAPUS
 
 # Setting
 >>> Edit CHannel ID sesuai target chat. Cara mendapatkan Channel ID
