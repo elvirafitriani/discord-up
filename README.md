@@ -9,9 +9,9 @@
 - isi chat diambil secara RANDOM/ACAK di file pesan.txt , untuk chat-nya DIHAPUS
 
 # Setting
->>> Edit CHannel ID sesuai target chat. Cara mendapatkan Channel ID
->>> Edit Token API Discord. cara mendapatkan Token API
->>> Edit Delay / Jeda Chat ( dalam satuan detik )
+- Edit CHannel ID sesuai target chat. Cara mendapatkan Channel ID
+- Edit Token API Discord. cara mendapatkan Token API
+- Edit Delay / Jeda Chat ( dalam satuan detik )
 
 
 # Discord Push Level ( Isntall via Termux Android) 
@@ -48,4 +48,4 @@ python metode_2.py
 ```
 python metode_4.py
 ```
->> Pilih Metode Yang di Inginkan
+- Pilih Metode Yang di Inginkan
